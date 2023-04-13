@@ -12,6 +12,7 @@ The whole project can be divided into the following modules
 
 ## **Project Workflow**
 <br>
+
 ![](project_workflow.jpg)
 
 <br> <br>
