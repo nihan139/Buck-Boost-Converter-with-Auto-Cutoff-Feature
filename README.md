@@ -59,3 +59,7 @@ The whole project can be divided into the following modules
 <br> <br>
 
 ![](result2.jpg)
+
+<br>
+
+From the result, it can be observed that battery gets auto-cutoff when its charge reaches 80%. After that the battery gets connected to discharging circuit. When battery charge discharges to 40%, it starts to charge again through battery charging circuit.
