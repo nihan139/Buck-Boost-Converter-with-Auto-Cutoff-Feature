@@ -49,4 +49,13 @@ The whole project can be divided into the following modules
 
 ![](auto_cutoff.jpg)
 
+<br> <br>
 
+## **Results**
+<br>
+
+![](result1.jpg)
+
+<br> <br>
+
+![](result2.jpg)
