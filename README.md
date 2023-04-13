@@ -13,11 +13,13 @@ The whole project can be divided into the following modules
 
   
 
-**Project Workflow**
+##**Project Workflow**
 
 
 
 ![](project_workflow.jpg)
+
+
 
 
 
@@ -29,14 +31,24 @@ The whole project can be divided into the following modules
 
 
 
+
+
 **Rectifier**
+
+
+
 
 
 ![](rectifier.jpg)
 
 
 
+
+
+
 **Buck-Boost**
+
+
 
 
 ![](buck_boost.jpg)
