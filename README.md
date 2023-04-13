@@ -9,56 +9,75 @@ The whole project can be divided into the following modules
   5. Battery Discharging Circuit
   6. Auto-cutoff Circuit
 
+<br>
 
 ## **Project Workflow**
 <br>
 
-![](project_workflow.jpg)
+<p align="center">
+   <img src="./project_workflow.jpg" width="600" height="300"/>
+</p>
 
 <br> <br>
 
 ## **Step-Down Circuit**
 <br>
 
-![](stepdown.jpg)
+<p align="center">
+   <img src="./stepdown.jpg" width="400" height="300"/>
+</p>
+
 
 <br> <br>
 ## **Rectifier**
 <br>
 
-![](rectifier.jpg)
+<p align="center">
+   <img src="./rectifier.jpg" width="400" height="300"/>
+</p>
+
 
 <br> <br>
 
 ## **Buck-Boost**
 <br>
 
-![](buck_boost.jpg)
+<p align="center">
+   <img src="./buck_boost.jpg" width="400" height="300"/>
+</p>
 
 <br> <br>
 
 ## **Battery Charging Circuit**
 <br>
 
-![](battery_charging.jpg)
+<p align="center">
+   <img src="./battery_charging.jpg" width="400" height="300"/>
+</p>
 
 <br> <br>
 
 ## **Auto-Cutoff & Battery Discharging Circuit**
 <br>
 
-![](auto_cutoff.jpg)
+<p align="center">
+   <img src="./auto_cutoff.jpg" width="400" height="300"/>
+</p>
 
 <br> <br>
 
 ## **Results**
 <br>
 
-![](result1.jpg)
+<p align="center">
+   <img src="./result1.jpg" width="500" height="300"/>
+</p>
 
 <br> <br>
 
-![](result2.jpg)
+<p align="center">
+   <img src="./result2.jpg" width="500" height="300"/>
+</p>
 
 <br>
 
