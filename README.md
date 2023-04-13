@@ -24,7 +24,7 @@ The whole project can be divided into the following modules
 
 
 
-**Step-Down Circuit**
+## **Step-Down Circuit**
 
 
 ![](stepdown.jpg)
@@ -33,8 +33,7 @@ The whole project can be divided into the following modules
 
 
 
-**Rectifier**
-
+## **Rectifier**
 
 
 
@@ -44,9 +43,7 @@ The whole project can be divided into the following modules
 
 
 
-
-
-**Buck-Boost**
+## **Buck-Boost**
 
 
 
@@ -55,15 +52,14 @@ The whole project can be divided into the following modules
 
 
 
-
-**Battery Charging Circuit**
+## **Battery Charging Circuit**
 
 
 ![](battery_charging.jpg)
 
 
 
-**Auto-Cutoff & Battery Discharging Circuit**
+## **Auto-Cutoff & Battery Discharging Circuit**
 
 
 ![](auto_cutoff.jpg)
