@@ -8,9 +8,52 @@ The whole project can be divided into the following modules
   4. Battery Charging Circuit
   5. Battery Discharging Circuit
   6. Auto-cutoff Circuit
+
+
+
   
 
 **Project Workflow**
 
 
+
 ![](project_workflow.jpg)
+
+
+
+
+**Step-Down Circuit**
+
+
+![](stepdown.jpg)
+
+
+
+**Rectifier**
+
+
+![](rectifier.jpg)
+
+
+
+**Buck-Boost**
+
+
+![](buck_boost.jpg)
+
+
+
+
+**Battery Charging Circuit**
+
+
+![](battery_charging.jpg)
+
+
+
+**Auto-Cutoff & Battery Discharging Circuit**
+
+
+![](auto_cutoff.jpg)
+
+
